@@ -3,9 +3,11 @@
 Links:
 Dataset: https://www.kaggle.com/datasets/dtomruk/app-store-meditation-app-reviews?select=appstore_calm_us.csv
 
-## Google Colab Notebook: https://colab.research.google.com/drive/1iM3AAJ4SHpunrqijtFF7jG_BbAxAS7E0?usp=sharing, also uploaded in repo as well as pdf of final poster
+### Google Colab Notebook: 
+https://colab.research.google.com/drive/1iM3AAJ4SHpunrqijtFF7jG_BbAxAS7E0?usp=sharing (_also uploaded in repo as well as pdf of final poster_)
 
-## Final Poster with Project Description: https://github.com/SaiVarad1/Meditation_App_NLP_Analysis/blob/main/Sai%20V-%20MeditationApp_Poster.pptx.pdf
+### Final Poster with Project Description: 
+https://github.com/SaiVarad1/Meditation_App_NLP_Analysis/blob/main/Sai%20V-%20MeditationApp_Poster.pptx.pdf
 
 My project aims to use topic modeling to analyze a dataset of meditation app reviews and highlight the importance of effective hyperparameter tuning.
 
